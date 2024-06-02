@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://lapuntu9.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: lapuntu9 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -226,5 +226,3 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins:
-  - jekyll-feed
